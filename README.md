@@ -1,7 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
 ## Note
-Thanks to Kallaway, I've decided to join 100DaysOfCode Challenge. Please keep in mind that this project was not started by myself, but just a way to join thousands of other coders to see how far I could get with coding at least 1 hour per day for next 100 days. Rules, translation, and instructions are shown below.
+Thanks to Kallaway, I've decided to join 100DaysOfCode Challenge. Please keep in mind that this project was not started by me, but just a way to join thousands of other coders to see how far I could get with coding at least 1 hour per day for next 100 days. Rules, translation, and instructions are shown below.
 
 ## Contents
 
