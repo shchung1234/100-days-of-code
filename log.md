@@ -9,3 +9,11 @@
 
 **Link to work:** [day1link](https://github.com/shchung1234/100-days-of-code/blob/master/Code%20Log/Day%201%20.ipynb)
 
+### Day 2: September 7, 2019 
+##### Second Code
+
+**Today's Progress**: Matplotlib using data from Kaggle. 
+
+**Thoughts:** Wow. Honestly I was planning on covering matplotlib, dictionaries, tabular dataset, logics, and conditional statement, and maybe pandas. But it took me a while to remember how to subset dataframe with pandas, so I had to review that again before demonstrating how matplotlib works. Less progress made, but at least I got a hand on decent sized dataset from kaggle. Tomorrow, I should be able to finish dictionaries, tabular dataset, logics, and conditional statement.
+
+**Link to work:** [day1link](https://github.com/shchung1234/100-days-of-code/blob/master/Code%20Log/Day%202.ipynb)
