@@ -16,4 +16,13 @@
 
 **Thoughts:** Wow. Honestly I was planning on covering matplotlib, dictionaries, tabular dataset, logics, and conditional statement, and maybe pandas. But it took me a while to remember how to subset dataframe with pandas, so I had to review that again before demonstrating how matplotlib works. Less progress made, but at least I got a hand on decent sized dataset from kaggle. Tomorrow, I should be able to finish dictionaries, tabular dataset, logics, and conditional statement.
 
-**Link to work:** [day1link](https://github.com/shchung1234/100-days-of-code/blob/master/Code%20Log/Day%202.ipynb)
+**Link to work:** [day2link](https://github.com/shchung1234/100-days-of-code/blob/master/Code%20Log/Day%202.ipynb)
+
+### Day 3: September 8, 2019 
+##### Third Code
+
+**Today's Progress**: Dictionaries, Pandas, Tabular dataset, logics, and conditional statement 
+
+**Thoughts:** Since it was just a review, went over everything quite quickly. But I realized that jupyter notebook with over certain amount of lines cannot be loaded into github, or at least it shows error in opening it. I may have to change the datafile to python if it is the case, but I'll have to try again tomorrow morning.
+
+**Link to work:** [day3link](https://github.com/shchung1234/100-days-of-code/blob/master/Code%20Log/Day%203.ipynb)
